@@ -17,4 +17,4 @@ def count_letters(input_string):
                 letter_counts[upper_char] = 1
     return letter_counts
 
-print(count_letters("AaBb"))
+# print(count_letters("AaBb"))
